@@ -1,4 +1,3 @@
 #taller de git y github 
-primer comentario
-segundo cambio
-tercerca cambio
+.
+tercera linea
